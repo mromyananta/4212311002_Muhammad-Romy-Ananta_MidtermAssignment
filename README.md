@@ -1,12 +1,12 @@
 # 4212311002_Muhammad-Romy-Ananta_MidtermAssignment
 
 Buatlah	program	untuk	klasifikasi	karakter	tulisan	tangan	pada	dataset	EMNIST	(Extended	MNIST)	menggunakan	HOG	Feature	Extraction	dengan	klasifier	Support	Vector	Machine	(SVM).
-•	Dataset	yang	Anda	gunakan	emnist-letters-train	(jumlah	classes	:	26)
-•	Lakukan	sampling	data	sebanyak	13.000	sampel	dari	dataset	tersebut.	Pastikan	sampel	data	memiliki	total	26	classes	dengan	distribusi	yang	seimbang	(masing-masing	kelas	500	sampel).
-•	Lakukan	evaluasi	performa	menggunakan	Leave-One-Out-Cross-Validation	(LOOCV)	dengan	menampilkan	confussion	matrix,	accuracy,	precision	dan	F1-score.	
+1. Dataset	yang	Anda	gunakan	emnist-letters-train	(jumlah	classes	:	26)
+2. Lakukan	sampling	data	sebanyak	13.000	sampel	dari	dataset	tersebut.	Pastikan	sampel	data	memiliki	total	26	classes	dengan	distribusi	yang	seimbang	(masing-masing	kelas	500	sampel).
+3. Lakukan	evaluasi	performa	menggunakan	Leave-One-Out-Cross-Validation	(LOOCV)	dengan	menampilkan	confussion	matrix,	accuracy,	precision	dan	F1-score.	
 Ref:	https://machinelearningmastery.com/loocv-for-evaluating-machine-learningalgorithms/		
-•	Anda	dapat	melakukan	tuning	parameter	HOG	dan	SVM	untuk	memperoleh	performa	terbaik.	
-•	Source	code	program	di-upload	di	Github	profile	masing-masing	(public	repository),	link	repository	di-upload	di	e-learning!
+4. Anda	dapat	melakukan	tuning	parameter	HOG	dan	SVM	untuk	memperoleh	performa	terbaik.	
+5. Source	code	program	di-upload	di	Github	profile	masing-masing	(public	repository),	link	repository	di-upload	di	e-learning!
 
 Hasil Source code program ini di upload di Github : https://github.com/mromyananta/4212311002_Muhammad-Romy-Ananta_MidtermAssignment.git
 
